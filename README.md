@@ -1,6 +1,7 @@
 # LMLINK
 
 ecommerce website
+portfolio project 
 
 # step 1 - Create the application using laravel
 
